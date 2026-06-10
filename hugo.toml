@@ -1,4 +1,4 @@
-baseURL = '_index.md'
+baseURL = '/'
 locale = 'en-us'
 title = 'Write your OWN embedded kernel'
 languageCode = "en-us"
