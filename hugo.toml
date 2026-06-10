@@ -106,11 +106,12 @@ logoHomeLink = '/Write-your-OWN-embedded-kernel/'
 [[languages.en.menu.main]]
 identifier = "Table of content"
 name = "Table of content"
-url = "/Write-your-OWN-embedded-kernel/"
+url = "/"
+
 [[languages.en.menu.main]]
 identifier = "chapter 1"
 name = "Chatper 1"
-url = "/Write-your-OWN-embedded-kernel/chapters/01/"
+url = "/chapters/01/"
 
 [module]
 replacements = "github.com/panr/hugo-theme-terminal.git -> terminal"
