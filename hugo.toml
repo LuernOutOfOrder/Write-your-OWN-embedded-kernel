@@ -1,4 +1,4 @@
-baseURL = 'https://luernoutoforder.github.io/Write-your-OWN-embedded-kernel/'
+baseURL = '_index.md'
 locale = 'en-us'
 title = 'Write your OWN embedded kernel'
 languageCode = "en-us"
@@ -17,7 +17,9 @@ noClasses = false
 [params]
 # dir name of your main content (default is `content/posts`).
 # the list of set content will show up on your index page (baseurl).
-contentTypeName = "posts"
+contentTypeName = "chapters"
+
+showFullContent = false
 
 # if you set this to 0, only submenu trigger will be visible
 showMenuItems = 2
