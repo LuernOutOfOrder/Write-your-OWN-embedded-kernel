@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://luernoutoforder.github.io/Write-your-OWN-embedded-kernel/'
 locale = 'en-us'
 title = 'Write your OWN embedded kernel'
 languageCode = "en-us"
