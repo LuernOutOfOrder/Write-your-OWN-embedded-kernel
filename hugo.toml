@@ -110,7 +110,7 @@ url = "/"
 
 [[languages.en.menu.main]]
 identifier = "chapter 1"
-name = "Chatper 1"
+name = "Chapter 1"
 url = "/chapters/01/"
 
 [module]
