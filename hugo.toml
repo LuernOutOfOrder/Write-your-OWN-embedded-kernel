@@ -100,7 +100,7 @@ words = "words"
 
 [languages.en.params.logo]
 logoText = "Terminal"
-logoHomeLink = "/"
+logoHomeLink = '/Write-your-OWN-embedded-kernel/'
 
 [languages.en.menu]
 [[languages.en.menu.main]]
