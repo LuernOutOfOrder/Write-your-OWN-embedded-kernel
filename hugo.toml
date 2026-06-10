@@ -1,7 +1,6 @@
 baseURL = 'https://luernoutoforder.github.io/Write-your-OWN-embedded-kernel/'
 locale = 'en-us'
 title = 'Write your OWN embedded kernel'
-description = "In this blog you will learn how a kernel work and write your own embedded kernel from scratch using your own brain."
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
