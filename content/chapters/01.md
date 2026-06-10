@@ -9,6 +9,7 @@ description = "How to build YOUR embedded kernel from scratch"
 showFullContent = false
 readingTime = true
 hideComments = false
+draft = false
 
 +++
 
