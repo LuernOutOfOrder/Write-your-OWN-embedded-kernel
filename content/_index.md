@@ -24,7 +24,7 @@ By the end of this tutorial, you will have a working embedded rust kernel for RI
 
 So here is everything we will do:
 
-- [Chapter 1 CPU privilege mode and binary file.](/chapters/01)
+- [Chapter 1 CPU privilege mode and binary file.](/Write-your-OWN-embedded-kernel/chapters/01/)
 - Chapter 2: RISC-V ISA.
 - Chapter 3: Bootloader and loading our binary in memory.
 - Chapter 4: Kernel entry point, where do we go from there?
