@@ -99,7 +99,7 @@ minuteReadingTime = "min read"
 words = "words"
 
 [languages.en.params.logo]
-logoText = "Terminal"
+logoText = "Write your OWN embedded kernel"
 logoHomeLink = '/Write-your-OWN-embedded-kernel/'
 
 [languages.en.menu]
