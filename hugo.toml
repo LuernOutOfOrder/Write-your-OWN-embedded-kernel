@@ -66,7 +66,7 @@ Toc = true
 # This value can be customized according to Hugo documentation:
 # https://gohugo.io/functions/time/format/
 # Default value (no changes needed):
-dateFormat = "01-02-2026"
+dateFormat = "02-01-2026"
 # Example format, with date, time, and timezone abbreviation:
 # dateFormat = "2006-01-02 3:04:06 PM MST"
 
