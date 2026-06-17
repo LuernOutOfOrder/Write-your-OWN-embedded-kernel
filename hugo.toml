@@ -113,6 +113,11 @@ identifier = "chapter 1"
 name = "Chapter 1"
 url = "/chapters/01/"
 
+[[languages.en.menu.main]]
+identifier = "chapter 2"
+name = "Chapter 2"
+url = "/chapters/02/"
+
 [module]
 replacements = "github.com/panr/hugo-theme-terminal.git -> terminal"
 [[module.imports]]
