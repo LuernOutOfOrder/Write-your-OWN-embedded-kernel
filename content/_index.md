@@ -27,7 +27,7 @@ So here is everything we will do:
 
 - [Chapter 1: CPU privilege mode and binary file.](/Write-your-OWN-embedded-kernel/chapters/01/)
 - [Chapter 2: RISC-V ISA.](/Write-your-OWN-embedded-kernel/chapters/02/)
-- Chapter 3: Bootloader and loading our binary in memory.
+- [Chapter 3: Bootloader and loading our binary in memory](/Write-your-OWN-embedded-kernel/chapters/03/).
 - Chapter 4: Kernel entry point, where do we go from there?
 - Chapter 5: Kernel boot process.
 - Chapter 6: Hardware Abstraction Layer.
