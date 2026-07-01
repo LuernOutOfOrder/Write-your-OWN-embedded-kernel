@@ -5,7 +5,7 @@ date = "2026-05-27T13:49:37+02:00"
 author = "Elouan DA COSTA PEIXOTO"
 authorTwitter = "" #do not include @
 cover = ""
-description = "How to build YOUR embedded kernel from scratch"
+description = "How to build your OWN embedded kernel from scratch in Rust and RISC-V"
 showFullContent = false
 readingTime = true
 hideComments = false
@@ -28,18 +28,15 @@ So here is everything we will do:
 - [Chapter 1: CPU privilege mode and binary file.](/Write-your-OWN-embedded-kernel/chapters/01/)
 - [Chapter 2: RISC-V ISA.](/Write-your-OWN-embedded-kernel/chapters/02/)
 - [Chapter 3: Bootloader and loading our binary in memory](/Write-your-OWN-embedded-kernel/chapters/03/).
-- Chapter 4: Kernel entry point, where do we go from there?
-- Chapter 5: Kernel boot process.
-- Chapter 6: Hardware Abstraction Layer.
-- Chapter 7: Drivers and sub-systems.
-- Chapter 8: Interruptions and exceptions.
-- Chapter 9: Handling memory.
-- Chapter 10: What's a task?
-- Chapter 11: Context switch.
-- Chapter 12: Scheduling task.
-- Chapter 13: Task routine and sub-routine.
-- Chapter 14: Adding data structure and other primitives.
-- Chapter 15: Make it work on real metal.
+- [Chapter 4: Kernel entry point and first step boot process](/Write-your-OWN-embedded-kernel/chapters/04/)
+- Chapter 5: Interruptions and exceptions.
+- Chapter 6: Handling memory.
+- Chapter 7: What's a task?
+- Chapter 8: Context switch.
+- Chapter 9: Scheduling task.
+- Chapter 10: Task routine and sub-routine.
+- Chapter 11: Adding data structure and other primitives.
+- Chapter 12: Make it work on real metal.
 - Epilogue ?? Or what's next ?
 
 If you want to check out the kernel I'm working on: <https://codeberg.org/Luernn/AldecaldOS>
