@@ -84,7 +84,7 @@ languageName = "English"
 title = "Write your OWN embedded kernel"
 
 [languages.en.params]
-subtitle = "In this blog you will learn how a kernel work and write your own embedded kernel from scratch using your own brain."
+subtitle = "In this blog you will learn how a kernel work and write your own embedded kernel in Rust and RISC-V from scratch using your own brain."
 owner = ""
 keywords = ""
 copyright = ""
@@ -122,6 +122,11 @@ url = "/chapters/02/"
 identifier = "chapter 3"
 name = "Chapter 3"
 url = "/chapters/03/"
+
+[[languages.en.menu.main]]
+identifier = "chapter 4"
+name = "Chapter 4"
+url = "/chapters/04/"
 
 [module]
 replacements = "github.com/panr/hugo-theme-terminal.git -> terminal"
