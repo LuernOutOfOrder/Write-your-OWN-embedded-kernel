@@ -17,11 +17,11 @@ draft = false
 
 When I started in computer science, the first thing I really fell in love with was operating systems. Especially kernels, I have built multiple kernels following great tutorials ([Stephen Marz: Blog](https://osblog.stephenmarz.com/index.html), [Writing an OS in Rust](https://os.phil-opp.com), ). But when I graduated from my school, I asked myself: “What do I want to do?”.I want to go into research. So I started reading the state of the art about operating systems. That’s when I learned that there’s GPOS and RTOS. I dig into industrial RTOS, especially FreeRTOS and Zephyr. And after learning things about FreeRTOS and Zephyr, I asked myself some design and architecture questions. But I didn’t have real experience in kernel development, except for those great tutorials. So I couldn’t like, know if those questions were good or if I just didn’t know anything about why it was made like that. So, for me, the best thing to do to learn something, is to build it. So I started working on my own kernel. And I’ve encountered a LOT of problems, problems I had a hard time fixing. So I told myself, when I reach a certain milestone, I’ll start working on a tutorial to write your OWN personal embedded kernel.
 
-And how will I do that? By giving all information, notions, and all the things I learned that make a kernel work. And by not giving any code snippet. Except for some things that can be more complex maybe.
+And how will I do that? By giving all information, notions, and all the things I learned that make a kernel work. And by not giving any code snippet. Code snippet is permitted only to illustrate syntax or notation, never to convey reasoning or architecture.
 
 So the goal is, that you implement everything yourself. Do not use any LLM, you’ll lose the tutorial goal. And I’ll try to explain everything as best as I can. So you’ll not have too many problems implementing everything by yourself.
 
-By the end of this tutorial, you will have a working embedded rust kernel for RISC-V 32 bits platform.
+By the end of this tutorial, you will have a lot of knowledge of how a kernel works and how to implement those notions yourself.
 
 So here is everything we will do:
 
