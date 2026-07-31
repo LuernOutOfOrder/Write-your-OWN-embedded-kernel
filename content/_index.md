@@ -29,7 +29,7 @@ So here is everything we will do:
 - [Chapter 2: RISC-V ISA.](/Write-your-OWN-embedded-kernel/chapters/02/)
 - [Chapter 3: Bootloader and loading our binary in memory](/Write-your-OWN-embedded-kernel/chapters/03/).
 - [Chapter 4: Kernel entry point and first step boot process](/Write-your-OWN-embedded-kernel/chapters/04/)
-- Chapter 5: Interruptions and exceptions.
+- [Chapter 5: Interruptions and exceptions](/Write-your-OWN-embedded-kernel/chapters/05/)
 - Chapter 6: Handling memory.
 - Chapter 7: What's a task?
 - Chapter 8: Context switch.
